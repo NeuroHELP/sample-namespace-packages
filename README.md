@@ -4,6 +4,10 @@ This repository contains samples for the various ways to create namespace
 packages in Python. For more details, see the
 [documentation on namespace packages](https://packaging.python.org/namespace_packages/)
 
+## Our fork
+We forked this example to amend our best practices. This can be used to learn about:
+- Namespace package (e.g. neurohelp.*)
+- Nox with config file that we distilled to our needs
 
 ## Testing
 This repo also contains testing tools to exercise installation scenarios for
