@@ -7,6 +7,8 @@ packages in Python. For more details, see the
 ## Our fork
 We forked this example to amend our best practices. This can be used to learn about:
 - Namespace package (e.g. neurohelp.*)
+	- Notice that on [PEP 423 -- Naming conventions and recipes related to packaging
+](https://www.python.org/dev/peps/pep-0423/) private company packages can have namespace with a `dot` suffix.
 - Nox with config file that we distilled to our needs
 
 > After changing the nox file the `python report_to_table.py` is failing. NU SHOIN ...

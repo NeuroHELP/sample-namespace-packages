@@ -16,7 +16,7 @@ from setuptools import setup
 
 
 setup(
-    name='example_pkg_a',
+    name='example_pkg.a',
 
     version='1',
 
