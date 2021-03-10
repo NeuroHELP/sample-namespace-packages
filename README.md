@@ -9,6 +9,8 @@ We forked this example to amend our best practices. This can be used to learn ab
 - Namespace package (e.g. neurohelp.*)
 - Nox with config file that we distilled to our needs
 
+> After changing the nox file the `python report_to_table.py` is failing. NU SHOIN ...
+
 ## Testing
 This repo also contains testing tools to exercise installation scenarios for
 namespace packages.
